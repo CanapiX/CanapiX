@@ -1,6 +1,6 @@
 <!-- Tech Stack -->
 <h1 align="center">🌟 Tech Stack 🌟</h1>
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; justify-content: space-between; align-items: flex-start;">
 
   <!-- Design Tools -->
   <div>
