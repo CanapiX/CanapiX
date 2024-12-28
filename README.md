@@ -2,19 +2,6 @@
 <h1 align="center">🌟 Tech Stack 🌟</h1>
 <div align="left" style="display: flex; flex-direction: column; gap: 20px;">
 
-  <!-- Design Tools -->
-  <div>
-    <h3>🎨 Design Tools</h3>
-    <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-      <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
-      <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
-      <img src="https://img.shields.io/badge/3ds_Max-00A6FF?style=for-the-badge&logo=autodesk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cinema_4D-01234D?style=for-the-badge&logo=maxon&logoColor=white" />
-    </div>
-  </div>
-
   <!-- Frontend -->
   <div>
     <h3>🖥️ Frontend</h3>
@@ -37,7 +24,7 @@
   <div>
     <h3>💻 Backend</h3>
     <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -62,11 +49,8 @@
     <h3>☁️ Cloud Providers</h3>
     <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
       <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
-      <img src="https://img.shields.io/badge/OpenStack-FF6F00?style=for-the-badge&logo=openstack&logoColor=white" />
     </div>
   </div>
 
@@ -80,7 +64,6 @@
       <img src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-      <img src="https://img.shields.io/badge/ArgoCD-6B71A6?style=for-the-badge&logo=argocd&logoColor=white" />
     </div>
   </div>
 
@@ -89,11 +72,10 @@
     <h3>🔧 Development Tools</h3>
     <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
       <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
       <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-      <img src="https://img.shields.io/badge/MobaXterm-004D71?style=for-the-badge&logo=mobaxterm&logoColor=white" />
       <img src="https://img.shields.io/badge/DBeaver-3723EE?style=for-the-badge&logo=dbeaver&logoColor=white" />
     </div>
   </div>
