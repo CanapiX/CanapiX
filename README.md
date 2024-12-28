@@ -1,6 +1,6 @@
 <!-- Tech Stack -->
 <h1 align="center">🌟 Tech Stack 🌟</h1>
-<div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; justify-content: space-between; align-items: flex-start;">
+<div align="left" style="display: flex; flex-direction: column; gap: 20px;">
 
   <!-- Design Tools -->
   <div>
@@ -42,10 +42,6 @@
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     </div>
   </div>
 
@@ -85,6 +81,43 @@
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
       <img src="https://img.shields.io/badge/ArgoCD-6B71A6?style=for-the-badge&logo=argocd&logoColor=white" />
+    </div>
+  </div>
+
+  <!-- Development Tools -->
+  <div>
+    <h3>🔧 Development Tools</h3>
+    <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+      <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+      <img src="https://img.shields.io/badge/MobaXterm-004D71?style=for-the-badge&logo=mobaxterm&logoColor=white" />
+      <img src="https://img.shields.io/badge/DBeaver-3723EE?style=for-the-badge&logo=dbeaver&logoColor=white" />
+    </div>
+  </div>
+
+  <!-- Frameworks -->
+  <div>
+    <h3>📚 Frameworks</h3>
+    <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    </div>
+  </div>
+
+  <!-- Version Control -->
+  <div>
+    <h3>🔧 Version Control</h3>
+    <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
     </div>
   </div>
 
