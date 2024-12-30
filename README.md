@@ -1,6 +1,6 @@
 <!-- Contact -->
 <h1 align="left">📫 Get in Touch</h1>
-<div align="left" style="display: flex; gap: 10px;">
+<div align="left" style="display: flex; flex-direction: column; gap: 10px;">
   <a href="mailto:canapi1009@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
