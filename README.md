@@ -1,24 +1,3 @@
-<!-- Contact -->
-<h1 align="left">📫 Get in Touch</h1>
-<div align="left" style="display: flex; gap: 10px;">
-  <a href="mailto:canapi1009@gmail.com" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/CanapiX" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://velog.io/@canapi" style="text-decoration: none; border: none; outline: none;">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog" />
-  </a>
-</div>
-
-<!-- GitHub Stats -->
-<h1 align="left">📊 GitHub Stats</h1>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CanapiX&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CanapiX&theme=radical" alt="GitHub Streak" />
-</div>
-
 <!-- Tech Stack -->
 <h1 align="left">💻 Tech Stack</h1>
 <div align="left" style="display: flex; flex-direction: column; gap: 20px;">
