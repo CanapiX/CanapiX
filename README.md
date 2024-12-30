@@ -11,12 +11,12 @@
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
     </div>
   </div>
 
@@ -29,6 +29,7 @@
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
@@ -42,9 +43,9 @@
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
     </div>
   </div>
 
