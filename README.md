@@ -57,6 +57,7 @@
     <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-623AA2?style=flat&logo=terraform&logoColor=white" />
       <img src="https://img.shields.io/badge/Ansible-1A1918?style=flat&logo=ansible&logoColor=white" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
