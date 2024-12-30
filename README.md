@@ -1,20 +1,16 @@
 <!-- Contact -->
 <h1 align="left">📫 Get in Touch</h1>
 <div align="left" style="display: flex; gap: 10px;">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:canapi1009@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/your-profile">
+  <a href="https://github.com/CanapiX">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://velog.io/@canapi">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog" />
   </a>
 </div>
-
 
 <!-- GitHub Stats -->
 <h1 align="left">📊 GitHub Stats</h1>
