@@ -61,7 +61,7 @@
       <img src="https://img.shields.io/badge/Ansible-1A1918?style=flat&logo=ansible&logoColor=white" />
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
       <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" />
-      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=ArgoCD&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=Argo&logoColor=white" />
     </div>
   </div>
 
