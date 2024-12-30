@@ -1,3 +1,11 @@
+<style>
+  a {
+    text-decoration: none;
+    border: none;
+    outline: none;
+  }
+</style>
+
 <!-- Contact -->
 <h1 align="left">📫 Get in Touch</h1>
 <div align="left" style="display: flex; gap: 10px;">
