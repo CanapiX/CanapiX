@@ -76,6 +76,7 @@
       <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white" />
     </div>
   </div>
 
