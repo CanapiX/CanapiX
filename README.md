@@ -70,6 +70,7 @@
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white" />
       <img src="https://img.shields.io/badge/Rocky-10B981?style=flat&logo=rockylinux&logoColor=white" />
     </div>
   </div>
