@@ -25,7 +25,7 @@
     <h3>💻 Backend</h3>
     <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/bagge/gradle-02303A?style=flat&logo=#gradle&logoColor=white" />
+      <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=#gradle&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     </div>
