@@ -1,3 +1,5 @@
+<!-- Contact -->
+<h1 align="left">📫 Get in Touch</h1>
 <style>
   a {
     text-decoration: none;
@@ -5,9 +7,6 @@
     outline: none;
   }
 </style>
-
-<!-- Contact -->
-<h1 align="left">📫 Get in Touch</h1>
 <div align="left" style="display: flex; gap: 10px;">
   <a href="mailto:canapi1009@gmail.com" style="text-decoration: none; border: none; outline: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
