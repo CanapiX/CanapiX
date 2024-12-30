@@ -1,18 +1,19 @@
-<h1 align="center">🌟 Tech Stack 🌟</h1>
+<!-- Tech Stack -->
+<h1 align="left">💻 Tech Stack</h1>
 <div align="left" style="display: flex; flex-direction: column; gap: 20px;">
 
   <!-- Frontend -->
   <div>
-    <h3>🖥️ Frontend</h3>
+    <h3>🎨 Frontend</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
@@ -21,7 +22,7 @@
 
   <!-- Backend -->
   <div>
-    <h3>💻 Backend</h3>
+    <h3>🔧 Backend</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
@@ -37,7 +38,7 @@
 
   <!-- Databases -->
   <div>
-    <h3>🗃️ Databases</h3>
+    <h3>🗄️ Databases</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
@@ -49,7 +50,7 @@
 
   <!-- DevOps -->
   <div>
-    <h3>⚙️ DevOps</h3>
+    <h3>⚙️ DevOps Tools</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
@@ -63,7 +64,7 @@
 
   <!-- Version Control -->
   <div>
-    <h3>🔧 Version Control</h3>
+    <h3>📁 Version Control</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -73,7 +74,7 @@
 
   <!-- Communication Tools -->
   <div>
-    <h3>💬 Communication</h3>
+    <h3>💬 Communication Tools</h3>
     <div style="display: flex; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
       <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white" />
