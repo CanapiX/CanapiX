@@ -72,7 +72,7 @@
     <h3>🔧 Development Tools</h3>
     <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-      <img src="https://img.shields.io/badge/Code-007ACC?style=flat&logo=visualstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
       <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipseide&logoColor=white" />
       <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
