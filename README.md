@@ -1,13 +1,13 @@
 <!-- Contact -->
 <h1 align="left">📫 Get in Touch</h1>
-<div align="left" style="display: flex; flex-direction: column; gap: 10px;">
-  <a href="mailto:canapi1009@gmail.com">
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="mailto:canapi1009@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/CanapiX">
+  <a href="https://github.com/CanapiX" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://velog.io/@canapi">
+  <a href="https://velog.io/@canapi" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog" />
   </a>
 </div>
