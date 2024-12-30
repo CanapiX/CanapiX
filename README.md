@@ -98,3 +98,10 @@
   </div>
 
 </div>
+
+<!-- GitHub Stats -->
+<h1 align="left">📊 GitHub Stats</h1>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+</div>
